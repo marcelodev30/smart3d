@@ -69,7 +69,7 @@ class FilamentModels {
   late String userId;
   late double weightRemaining; //Peso restante
   late DateTime purchaseDate; // compra data
-  late String brand; // Marca
+  late String name; // Marca
   late DateTime createdAt;
   late DateTime updatedAt;
 
